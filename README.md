@@ -1,7 +1,6 @@
-# Python-Projects
-Fall 2024
+Java Projects - Fall 2024
 
-Core Programming Fundamentals
+Core Programming Fundamentals Covered:
 - Advanced Java implementation
 - Clean code architecture
 - Robust error handling
