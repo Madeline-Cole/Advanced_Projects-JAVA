@@ -11,15 +11,18 @@ Data Structures Mastery
 - Arrays & Dynamic Arrays (Lab01, Lab02)
 - LinkedLists (Lab08)
 - Trees (Lab09)
+- Heaps (Lab10)
 - Stacks & Queues (Lab07)
 - Custom Set Implementation (Lab05)
 
 Algorithm Design & Implementation
-- Sorting: Insertion & Merge Sort (Lab06)
+- Sorting: Insertion, Merge Sort (Lab06), Heap Sort (Lab10)
 - Searching: Binary & Sequential (Lab05)
 - Tree Traversal & Manipulation (Lab09)
+- Heap Operations & Maintenance (Lab10)
 - Expression Evaluation (Lab07)
 - Pattern Matching (Lab01, Lab09)
+
 
 Object-Oriented Excellence
 - Class Hierarchy Design (Lab03, Lab04)
@@ -70,5 +73,6 @@ Sophisticated mathematical expression evaluation system using stack and queue op
 LAB08: "Advanced Linked List Operations" 
 Custom linked list implementation featuring complex list transformations and efficient node manipulation. Demonstrates sophisticated data structure operations and memory-efficient list management.
 
-LAB09: "Binary Tree Algorithms & Recursive Operations"
-Comprehensive binary tree implementation featuring complex traversal algorithms and tree manipulations. Showcases advanced recursive problem-solving and tree-based data structure expertise.
+LAB09: "Binary Tree Algorithms & Recursive Operations" Comprehensive binary tree implementation featuring complex traversal algorithms and tree manipulations. Showcases advanced recursive problem-solving and tree-based data structure expertise.
+
+LAB10: "Max Heap Implementation & Heap Sort" Advanced heap data structure implementation featuring efficient heap maintenance operations and heap sort algorithm. Demonstrates mastery of priority queue concepts, complete binary trees, and in-place sorting techniques.
